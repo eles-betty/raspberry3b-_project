@@ -5,7 +5,7 @@
 Saya menggunakan MacOS sebagai host, jadi sesuaikan dengan OS yang digunakan dan akan ada perbedaan minor saja
 
 * [ ] Download Raspberry Pi Imager via Homebrew, lalu sambungkan memory card pada PC / laptop
-* [ ] Pada Menu Device, sesuaikan tipe device. Saya secara spesifik memilih Raspberry Pi 3B+
+* [ ] Pada Menu Device, sesuaikan tipe device. Saya secara spesifik memilih Raspberry Pi 3B+ sesuai perangkat yang saya miliki, silahkan sesuaikan dengan jenis perangkat Anda
 * [ ] Pada Menu OS, gulir kebawah dan piiih Other General Purpose OS lalu gulir kebawah dan cari DietPi.
 * [ ] Pastikan untuk memilih penyimpanan memory card (jangan salah memiliih penyimpanan Host), lalu pilih Format
 * [ ] Tunggu sampai proses download dan selesai instalasi yang akan memakan waktu beberapa menit sesuai kecepatan internet dan memory card yang digunakan
